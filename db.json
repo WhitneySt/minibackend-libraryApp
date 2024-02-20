@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Andrea Ardila",
+            "image": "https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg",
+            "email": "andreardila@email.com",
+            "password": "1234"
+        },
+        {
+            "id": 2,
+            "name": "Angel Buitrago",
+            "image": "https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg",
+            "email": "angelbuitrago@email.com",
+            "password": "1234"
+        }
+    ]
+}
